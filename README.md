@@ -20,3 +20,6 @@ After the above training, we can test the model and output some visualizations o
 ```
 python test.py
 ```
+## Model Architecture
+
+<img src="https://github.com/xc-lab/LSTMCNN/blob/main/processing/chapt4_Fig4-1.jpg" width="800">
